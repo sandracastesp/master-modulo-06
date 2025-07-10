@@ -1,0 +1,4 @@
+Proyecto uno: El objetivo fue aprender a crear un proyecto de React con Vite, definir y usar componentes funcionales en React, entender la sintaxis básica de JSX, renderizar información estática en la interfaz y, ejecutar y probar una aplicación en el navegador. Como resultado se tuvo una tarjeta de presentación simple en React con información estática. 
+
+Primero se creó un proyecto con Vite y se inició el servidor de desarrollo. Se creó el componente Tarjeta dentro de la carpeta src creando un archivo .jsx (extensión de JS que permite escribir código similar a HTML), luego se integró el componente en App.jsx en src y se reemplazó el código existente. Por último se guardaron los cambio, se verificó que la aplicación se ejecutara correctamente y la tarjeta presentación se muestre correctamente.
+
