@@ -2,3 +2,6 @@ Proyecto uno: El objetivo fue aprender a crear un proyecto de React con Vite, de
 
 Primero se creó un proyecto con Vite y se inició el servidor de desarrollo. Se creó el componente Tarjeta dentro de la carpeta src creando un archivo .jsx (extensión de JS que permite escribir código similar a HTML), luego se integró el componente en App.jsx en src y se reemplazó el código existente. Por último se guardaron los cambio, se verificó que la aplicación se ejecutara correctamente y la tarjeta presentación se muestre correctamente.
 
+Proyecto dos: El objetivo de este proyecto fue crear una aplicación web sencilla para generar lista de compras para un supermercado interactiva usando `useState`, de forma que el usuario puede agregar productos a la lista y eliminarlos cuando lo desee, lo que ayuda a comprender cómo manejar arreglos en el estado y cómo actualizarlos. La aplicación es intuitiva, permitiendo a los usuarios visualizar la lista de compras en tiempo real.
+
+Se creó un  proyecto en React, luego se creó el componente ListaCompras, se utilizó useState para manejar el estado de la lista de compras, se agregó un input y botón para permitir añadir productos que se muestran en pantalla y un botón a lado de cada producto para eliminarlo (usando setProductos con el método .filter()) cuando el usuario desee quitarlo.
